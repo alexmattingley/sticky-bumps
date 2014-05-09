@@ -1691,6 +1691,15 @@
 		"shouldRunBless": 1,
 		"useLibsass": 0
 		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/index.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -1739,6 +1748,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/partials\/slider.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/slider.kit",
+		"outputAbbreviatedPath": "\/partials\/slider.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/README.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -1754,7 +1772,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Constantine Kiriaze",
+"lastSavedByUser": "Alex Mattingley",
 "manualImportLinks": {
 	"\/assets\/js\/app.js": [
 		{
@@ -1797,7 +1815,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "simple-html",
+	"displayValue": "sticky-bumps",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "harddrive_darkGray"
 	},
